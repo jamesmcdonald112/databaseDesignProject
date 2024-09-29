@@ -3,7 +3,7 @@
 This project was created during a 3-hour final exam. It involves the design and implementation of a sports club database. 
 The project includes SQL scripts for creating tables, inserting data, and running queries to retrieve and manipulate data.
 
-## Final Grade for Module: 87%
+## Final Module Grade: 87%
 
 ## ER Diagram
 
